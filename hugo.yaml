@@ -27,13 +27,13 @@ languages:
       tag: tags
       series: series
     menu:
-      main:
-        - name: Archive
-          url: archives/
-          weight: 5
-        - name: sp
-          url: https://nghialele.space
-          weight: 10
+      #main:
+      #  - name: Archive
+      #    url: archives/
+      #    weight: 5
+      #  - name: sp
+      #    url: https://nghialele.space
+      #    weight: 10
 
   vi:
     languageName: "🇻🇳"
@@ -44,13 +44,13 @@ languages:
       tag: tags
       series: series
     menu:
-      main:
-        - name: Archive
-          url: archives/
-          weight: 5
-        - name: sp
-          url: https://nghialele.space
-          weight: 10
+      #main:
+      #  - name: Archive
+      #    url: archives/
+      #    weight: 5
+      #  - name: sp
+      #    url: https://nghialele.space
+      #    weight: 10
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     #params:
@@ -92,7 +92,9 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: coming
+      - name: will
+        url: #
+      - name: put something here
         url: #
       - name: soon
         url: #
