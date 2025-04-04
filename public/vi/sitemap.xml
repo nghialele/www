@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/www/vi/categories/</loc>
+    <loc>https://nghialele.github.io/www/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/www/categories/"
+                href="https://nghialele.github.io/www/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/www/vi/categories/"
+                href="https://nghialele.github.io/www/vi/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/www/vi/</loc>
+    <loc>https://nghialele.github.io/www/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/www/"
+                href="https://nghialele.github.io/www/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/www/vi/"
+                href="https://nghialele.github.io/www/vi/"
                 />
   </url><url>
-    <loc>http://localhost:1313/www/vi/series/</loc>
+    <loc>https://nghialele.github.io/www/vi/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/www/series/"
+                href="https://nghialele.github.io/www/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/www/vi/series/"
+                href="https://nghialele.github.io/www/vi/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/www/vi/tags/</loc>
+    <loc>https://nghialele.github.io/www/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/www/tags/"
+                href="https://nghialele.github.io/www/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/www/vi/tags/"
+                href="https://nghialele.github.io/www/vi/tags/"
                 />
   </url>
 </urlset>
