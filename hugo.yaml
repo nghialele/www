@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "/"
+baseURL: "https://nghialele.github.io/www/"
 title: nghialele
 copyright: "© nghialele"
 paginate: 5
@@ -64,7 +64,7 @@ outputs:
     - JSON
 
 params:
-  env: staging # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "yet another nghialele website"
   author: nghialele
   # author: ["Me", "You"] # multiple authors
