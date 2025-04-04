@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nghialele.github.io/www/tags/emoji/</loc>
+    <loc>https://nghialele.dev/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nghialele.github.io/www/posts/emoji/</loc>
+    <loc>https://nghialele.dev/posts/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nghialele.github.io/www/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://nghialele.github.io/www/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nghialele.github.io/www/"
-                />
-  </url><url>
-    <loc>https://nghialele.github.io/www/posts/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nghialele.github.io/www/tags/</loc>
+    <loc>https://nghialele.dev/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://nghialele.github.io/www/vi/tags/"
+                href="https://nghialele.dev/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nghialele.github.io/www/tags/"
+                href="https://nghialele.dev/"
                 />
   </url><url>
-    <loc>https://nghialele.github.io/www/categories/</loc>
+    <loc>https://nghialele.dev/posts/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nghialele.dev/tags/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://nghialele.github.io/www/vi/categories/"
+                href="https://nghialele.dev/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nghialele.github.io/www/categories/"
+                href="https://nghialele.dev/tags/"
                 />
   </url><url>
-    <loc>https://nghialele.github.io/www/series/</loc>
+    <loc>https://nghialele.dev/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://nghialele.github.io/www/vi/series/"
+                href="https://nghialele.dev/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nghialele.github.io/www/series/"
+                href="https://nghialele.dev/categories/"
+                />
+  </url><url>
+    <loc>https://nghialele.dev/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://nghialele.dev/vi/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nghialele.dev/series/"
                 />
   </url>
 </urlset>
