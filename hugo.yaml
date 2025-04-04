@@ -3,7 +3,6 @@
 baseURL: "https://nghialele.github.io/www/"
 title: nghialele
 copyright: "© nghialele"
-paginate: 5
 theme: [PaperMod]
 
 enableInlineShortcodes: true
@@ -177,9 +176,3 @@ markup:
 #   youtube:
 #     disabled: false
 #     privacyEnhanced: true
-
-services:
-  instagram:
-    disableInlineCSS: true
-  twitter:
-    disableInlineCSS: true
